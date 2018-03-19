@@ -1,0 +1,52 @@
+.mine {
+    width: 750px;
+    -ms-align-items: center;
+    align-items: center;
+}
+
+/* 每一个基础模块 */
+
+.mine_module {
+    width: 710px;
+    height: 100px;
+    border-bottom-width: 1px;
+    border-bottom-color: #ddd;
+    border-top-width: 1px;
+    border-top-color: #fff;
+    flex-direction: row;
+    justify-content: space-between;
+    -ms-align-items: center;
+    align-items: center;
+}
+
+/*  基础模块：左侧*/
+
+.mine_module_left {
+    flex-direction: row;
+    -ms-align-items: center;
+    align-items: center;
+}
+
+.mine_module_icon {
+    width: 55px;
+    height: 55px;
+    margin-right: 30px;
+}
+
+.module_left_title {
+    font-size: 30px;
+    margin-right: 20px;
+    color: #333;
+}
+
+.module_left_number {
+    font-size: 28px;
+    color: #999;
+}
+
+/*  基础模块：右侧*/
+
+.mine_module_right {
+    width: 40px;
+    height: 40px;
+}

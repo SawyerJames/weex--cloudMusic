@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "E:\\project\\cloudmusic\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\arrow.png",
+        "source": "E:\\project\\cloudmusic\\platforms\\android\\app\\src\\main\\res\\drawable-hdpi\\arrow.png"
+    },
+    {
+        "merged": "E:\\project\\cloudmusic\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\play_small.png",
+        "source": "E:\\project\\cloudmusic\\platforms\\android\\app\\src\\main\\res\\drawable-hdpi\\play_small.png"
+    },
+    {
+        "merged": "E:\\project\\cloudmusic\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\nav_one.png",
+        "source": "E:\\project\\cloudmusic\\platforms\\android\\app\\src\\main\\res\\drawable-hdpi\\nav_one.png"
+    },
+    {
+        "merged": "E:\\project\\cloudmusic\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\header_nav.png",
+        "source": "E:\\project\\cloudmusic\\platforms\\android\\app\\src\\main\\res\\drawable-hdpi\\header_nav.png"
+    },
+    {
+        "merged": "E:\\project\\cloudmusic\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\header_search.png",
+        "source": "E:\\project\\cloudmusic\\platforms\\android\\app\\src\\main\\res\\drawable-hdpi\\header_search.png"
+    },
+    {
+        "merged": "E:\\project\\cloudmusic\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\play_icon.png",
+        "source": "E:\\project\\cloudmusic\\platforms\\android\\app\\src\\main\\res\\drawable-hdpi\\play_icon.png"
+    },
+    {
+        "merged": "E:\\project\\cloudmusic\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\ic_action_refresh.png",
+        "source": "E:\\project\\cloudmusic\\platforms\\android\\app\\src\\main\\res\\drawable-hdpi\\ic_action_refresh.png"
+    },
+    {
+        "merged": "E:\\project\\cloudmusic\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\header_muisc.png",
+        "source": "E:\\project\\cloudmusic\\platforms\\android\\app\\src\\main\\res\\drawable-hdpi\\header_muisc.png"
+    },
+    {
+        "merged": "E:\\project\\cloudmusic\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\nav_two.png",
+        "source": "E:\\project\\cloudmusic\\platforms\\android\\app\\src\\main\\res\\drawable-hdpi\\nav_two.png"
+    },
+    {
+        "merged": "E:\\project\\cloudmusic\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\nav_three.png",
+        "source": "E:\\project\\cloudmusic\\platforms\\android\\app\\src\\main\\res\\drawable-hdpi\\nav_three.png"
+    },
+    {
+        "merged": "E:\\project\\cloudmusic\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\ic_action_scan.png",
+        "source": "E:\\project\\cloudmusic\\platforms\\android\\app\\src\\main\\res\\drawable-hdpi\\ic_action_scan.png"
+    },
+    {
+        "merged": "E:\\project\\cloudmusic\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\nav_four.png",
+        "source": "E:\\project\\cloudmusic\\platforms\\android\\app\\src\\main\\res\\drawable-hdpi\\nav_four.png"
+    },
+    {
+        "merged": "E:\\project\\cloudmusic\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\song_icon.png",
+        "source": "E:\\project\\cloudmusic\\platforms\\android\\app\\src\\main\\res\\drawable-hdpi\\song_icon.png"
+    },
+    {
+        "merged": "E:\\project\\cloudmusic\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\list_small.png",
+        "source": "E:\\project\\cloudmusic\\platforms\\android\\app\\src\\main\\res\\drawable-hdpi\\list_small.png"
+    }
+]

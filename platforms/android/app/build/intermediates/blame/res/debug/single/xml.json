@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\xx\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\app_config.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\xx\\platforms\\android\\app\\src\\main\\res\\xml\\app_config.xml"
+    },
+    {
+        "merged": "E:\\project\\cloudmusic\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\app_config.xml",
+        "source": "E:\\project\\cloudmusic\\platforms\\android\\app\\src\\main\\res\\xml\\app_config.xml"
+    }
+]

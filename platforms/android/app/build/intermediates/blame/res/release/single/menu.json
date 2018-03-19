@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\project\\cloudmusic\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\menu\\main.xml",
+        "source": "E:\\project\\cloudmusic\\platforms\\android\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\project\\cloudmusic\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\menu\\main_scan.xml",
+        "source": "E:\\project\\cloudmusic\\platforms\\android\\app\\src\\main\\res\\menu\\main_scan.xml"
+    }
+]

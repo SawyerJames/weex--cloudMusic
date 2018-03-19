@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\xx\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\zxing_beep.ogg",
+        "source": "C:\\Users\\Administrator\\Desktop\\xx\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.journeyapps\\zxing-android-embedded\\3.4.0\\res\\raw\\zxing_beep.ogg"
+    },
+    {
+        "merged": "E:\\project\\cloudmusic\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\zxing_beep.ogg",
+        "source": "E:\\project\\cloudmusic\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.journeyapps\\zxing-android-embedded\\3.4.0\\res\\raw\\zxing_beep.ogg"
+    }
+]

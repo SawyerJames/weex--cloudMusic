@@ -1,0 +1,31 @@
+/*每日推荐导航栏  */
+
+.find_nav {
+    width: 750px;
+    height: 190px;
+    border-bottom-width: 1px;
+    border-bottom-color: #ddd;
+    flex-direction: row;
+    justify-content: space-around;
+    -ms-align-items: center;
+    align-items: center;
+}
+
+.nav_module {
+    height: 160px;
+    background-color: #f2f4f5;
+    flex-direction: column;
+    justify-content: space-around;
+    -ms-align-items: center;
+    align-items: center;
+}
+
+.nav_module_title {
+    font-size: 26px;
+    color: #333;
+}
+
+.nav_module_img {
+    width: 100px;
+    height: 100px;
+}

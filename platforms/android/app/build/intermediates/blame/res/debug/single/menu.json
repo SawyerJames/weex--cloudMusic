@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\xx\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\xx\\platforms\\android\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\project\\cloudmusic\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\project\\cloudmusic\\platforms\\android\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\project\\cloudmusic\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_scan.xml",
+        "source": "E:\\project\\cloudmusic\\platforms\\android\\app\\src\\main\\res\\menu\\main_scan.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\xx\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_scan.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\xx\\platforms\\android\\app\\src\\main\\res\\menu\\main_scan.xml"
+    }
+]
